@@ -14,9 +14,9 @@ Deskripsi singkat 1-2 kalimat tentang project ini (contoh: "DevCard adalah halam
 
 <!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
 
-![Screenshot](link-screenshot-kamu.png)
+![Screenshot](<img width="1200" height="675" alt="YNTKTS-Singkatan-Unik-nan-Viral-dari-Presiden-Jokowi" src="https://github.com/user-attachments/assets/ca314bdb-285d-4564-92fa-63c5ec1f2889" />
 
-Live Demo: [link-demo-jika-ada](#)
+Live Demo: []
 
 ---
 
